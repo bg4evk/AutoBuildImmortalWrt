@@ -42,7 +42,6 @@ PACKAGES="$PACKAGES luci-app-ipsec-vpnd"
 PACKAGES="$PACKAGES luci-app-ipsec-vpnserver-manyusers"
 PACKAGES="$PACKAGES luci-app-istorex"
 PACKAGES="$PACKAGES luci-app-upnp"
-PACKAGES="$PACKAGES luci-app-quickstart"
 # 增加几个必备组件 方便用户安装iStore
 PACKAGES="$PACKAGES fdisk"
 PACKAGES="$PACKAGES script-utils"
