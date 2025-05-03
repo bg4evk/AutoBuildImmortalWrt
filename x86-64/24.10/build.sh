@@ -42,6 +42,8 @@ PACKAGES="$PACKAGES luci-app-ddns-go"
 PACKAGES="$PACKAGES luci-i18n-ddns-go-zh-cn"
 PACKAGES="$PACKAGES luci-app-vlmcsd"
 PACKAGES="$PACKAGES luci-i18n-vlmcsd-zh-cn"
+PACKAGES="$PACKAGES luci-app-ipsec-vpnd"
+PACKAGES="$PACKAGES luci-i18n-ipsec-vpnd-zh-cn"
 # 增加几个必备组件 方便用户安装iStore
 PACKAGES="$PACKAGES fdisk"
 PACKAGES="$PACKAGES script-utils"
